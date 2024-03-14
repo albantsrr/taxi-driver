@@ -4,3 +4,5 @@ pip install gymnasium
 pip install gymnasium[toy-text]
 !!! cudatoolkit=11.2 cudnn=8.1.0 !!! 
 
+pip install jupyterlab
+pip install notebook
