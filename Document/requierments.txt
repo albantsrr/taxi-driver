@@ -1,0 +1,6 @@
+pip install matplotlib
+python -m pip install "tensorflow<2.11"
+pip install gymnasium
+pip install gymnasium[toy-text]
+!!! cudatoolkit=11.2 cudnn=8.1.0 !!! 
+
